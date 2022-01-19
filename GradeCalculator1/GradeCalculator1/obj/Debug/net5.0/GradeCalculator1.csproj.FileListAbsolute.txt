@@ -1,0 +1,16 @@
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\bin\Debug\net5.0\GradeCalculator1.exe
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\bin\Debug\net5.0\GradeCalculator1.deps.json
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\bin\Debug\net5.0\GradeCalculator1.runtimeconfig.json
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\bin\Debug\net5.0\GradeCalculator1.runtimeconfig.dev.json
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\bin\Debug\net5.0\GradeCalculator1.dll
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\bin\Debug\net5.0\ref\GradeCalculator1.dll
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\bin\Debug\net5.0\GradeCalculator1.pdb
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\obj\Debug\net5.0\GradeCalculator1.csproj.AssemblyReference.cache
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\obj\Debug\net5.0\GradeCalculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\obj\Debug\net5.0\GradeCalculator1.AssemblyInfoInputs.cache
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\obj\Debug\net5.0\GradeCalculator1.AssemblyInfo.cs
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\obj\Debug\net5.0\GradeCalculator1.csproj.CoreCompileInputs.cache
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\obj\Debug\net5.0\GradeCalculator1.dll
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\obj\Debug\net5.0\ref\GradeCalculator1.dll
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\obj\Debug\net5.0\GradeCalculator1.pdb
+C:\Users\armag\source\repos\GradeCalculator1\GradeCalculator1\obj\Debug\net5.0\GradeCalculator1.genruntimeconfig.cache
